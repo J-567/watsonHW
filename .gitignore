@@ -31,7 +31,7 @@ backend/.project
 hs_err_pid*
 
 # application properties
-backend/src/main/resources/application.properties
+WatsonHW/src/main/resources/application.properties
 
 # compiled output
 /dist
